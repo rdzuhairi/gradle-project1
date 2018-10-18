@@ -8,3 +8,15 @@ Contents
   - Extract module
   - Put data into database
   - Export into .tsv file
+
+IDE : IntellIJ
+
+Libraries: JSoup, MySqlConector
+
+Databse: MySql
+
+Setup Project
+
+Install IntelIJ
+
+continue~
