@@ -11,12 +11,13 @@ Contents
 
 IDE : IntellIJ
 
-Libraries: JSoup, MySqlConector
+Libraries: JSoup, MySqlConector, and CSVRead
 
 Databse: MySql
 
 Setup Project
 
 Install IntelIJ
+
 
 continue~
